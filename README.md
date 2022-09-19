@@ -1,0 +1,9 @@
+---
+description: A IMPORTANCIA DA MUSICA NA VIDA DAS PESSOAS
+coverY: 0
+---
+
+# MusiChain
+
+**“Primeiro, devemos educar a alma através da música e a seguir o corpo através da ginástica” disse Platão.**\
+A música sempre esteve presente na cultura da humanidade. As poesias trovadorescas, acompanhadas por sons, e os poemas simbolistas, que visam à musicalidade nas suas criações, são exemplos do uso artístico da música, no qual o objetivo é proporcionar prazer aos ouvidos e evocar sentimentos. A música é reconhecida por muitos pesquisadores como uma modalidade que desenvolve a mente humana, promove o equilíbrio, proporcionando um estado agradável de bem-estar, facilitando a concentração e o desenvolvimento do raciocínio, em especial em questões reflexivas voltadas para o pensamento. Na música estão contidos três elementos: as palavras, a harmonia e o ritmo. Daí a importância da boa e verdadeira música. A música penetra diretamente em nossos centros nervosos e ordena de maneira rápida e imediata a divisão do tempo e do espaço, além de inspirar o gosto pelas virtudes. Enquanto as crianças cantam, batem palmas, batem os pés e dançam. É visível que nenhuma permanece quieta, ou seja, os instrumentos naturais do próprio corpo, em sua qualidade de gestos rítmicos primordiais, complementam a expressão melódica do canto. Ressalto que a participação das famílias também é fundamental nos momentos de apreciação musical, seja na ação de cantar, de ouvir boas músicas, de ouvir músicas clássicas ou sons da natureza. Essas relações permitem o bem estar físico e emocional de todos. Para cantar com a criança, não é necessário possuir técnicas vocais, e sim deixar a voz sair do coração e passar pela garganta carregada de emoção, e assim conduzi-la. Cante com ela e os laços afetivos certamente serão fortalecidos.
