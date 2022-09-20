@@ -20,6 +20,7 @@
 * [🔊 NFT's Concept](features/nfts-concept.md)
 * [🔊 Metaverse](features/metaverse.md)
 * [🔊 DAO+DeFI+NFT+Metaverse= MUSICHAIN](features/dao+defi+nft+metaverse-musichain.md)
+* [🔊 Staking](features/staking.md)
 * [🔊 EVM](features/evm.md)
 
 ## FAIRLAUNCH
