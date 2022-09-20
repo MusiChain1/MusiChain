@@ -22,6 +22,10 @@
 * [DAO+DeFI+NFT+Metaverse= MUSICHAIN](features/dao+defi+nft+metaverse-musichain.md)
 * [EVM](features/evm.md)
 
+## FAIRLAUNCH
+
+* [Fairlaunch Pinksale](https://www.pinksale.finance/)
+
 ## SAFU / KYC / AUDIT
 
 * [Contract Official](safu-kyc-audit/contract-official.md)
@@ -32,7 +36,7 @@
 ## tOKENOMICS
 
 * [Token MSC](tokenomics/token-msc.md)
-* [Taxes / Alocation](tokenomics/taxes-alocation.md)
+* [Fees MSC](tokenomics/fees-msc.md)
 * [Teams](tokenomics/teams.md)
 * [Roadmap](tokenomics/roadmap.md)
 
