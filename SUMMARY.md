@@ -13,10 +13,11 @@
 
 * [Web3 and Blockchain Trends](features/web3-and-blockchain-trends.md)
 * [Web 3 Concept](features/web-3-concept.md)
-* [Blockchain - Concepts](features/blockchain-concepts.md)
+* [Blockchain Concept](features/blockchain-concept.md)
 * [Blockchain and Web3 at MusiChain](features/blockchain-and-web3-at-musichain.md)
-* [DeFi Concept and NFT's](features/defi-concept-and-nfts.md)
+* [DeFi Concept](features/defi-concept.md)
 * [DAO and Anti-Dump](features/dao-and-anti-dump.md)
+* [NFT's Concept](features/nfts-concept.md)
 * [Metaverse](features/metaverse.md)
 * [DAO+DeFI+NFT+Metaverse= MUSICHAIN](features/dao+defi+nft+metaverse-musichain.md)
 * [EVM](features/evm.md)

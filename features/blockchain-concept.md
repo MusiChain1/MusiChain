@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Blockchain - Concepts
+# Blockchain Concept
 
 We will use the most secure and prioritizing speed! The BEP-721 protocol was the one that best fit the requirements, where we will be able to put the NFT's on the web and integrate it with the app. With this, in Page "123" we will give a demonstration of the functionality of our app, where when listening to songs, they will staking in token MUSICHAIN.
 
