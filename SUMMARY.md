@@ -21,7 +21,7 @@
 * [🔊 Metaverse](features/metaverse.md)
 * [🔊 Staking](features/staking.md)
 * [🔊 Launchpads](features/launchpads.md)
-* [🔊 EVM / PoS](features/evm-pos.md)
+* [🔊 EVM / PoS](features/evm.md)
 
 ## staking
 
