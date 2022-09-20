@@ -2,11 +2,11 @@
 coverY: 0
 ---
 
-# DAO and Anti-Dump
+# 🔊 DAO and Anti-Dump
 
 ## DAO Governance
 
-##
+The true nature of blockchain is decentralization, which is increasingly supported by the community. In particular, the emergence of DAOs shows the great need for transparency and decentralization, one of MusiChain's goals.
 
 ## Anti-Dump
 

@@ -3,7 +3,7 @@ description: Metaverse as a generational evolution of the Internet
 coverY: 0
 ---
 
-# Metaverse
+# 🔊 Metaverse
 
 Imagine a world where you can sit on the same couch as a friend who lives thousands of miles away, or imagine a virtual version of your workplace while you are at the beach.The concept of the metaverse, however, emerged in the late 1970s and early 1980s, when members of the technology community were already envisioning an Exponential Age, a future successor state to the Internet, which they called the "metaverse".In this future, only imagined at the time, the transformation of society would be so profound that it would revolutionize not only the digital world, but also much of the real world.
 

@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# DeFi Concept
+# 🔊 DeFi Concept
 
 ## DeFi Concept
 
