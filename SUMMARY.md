@@ -22,6 +22,7 @@
 * [🔊 Staking](features/staking.md)
 * [🔊 Launchpads](features/launchpads.md)
 * [🔊 EVM / PoS](features/evm.md)
+* [🔊 How to buy ?](features/how-to-buy.md)
 
 ## staking
 
