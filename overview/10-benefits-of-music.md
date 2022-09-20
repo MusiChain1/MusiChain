@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🎵 10 Benefits of Music
+# 10 Benefits of Music
 
 1. **Relaxing patients before surgery**: A study found that listening to music helped put cardiovascular patients in a state of calm and relaxation before their surgeries. This is a very important benefit for the nearly 4 million people who have heart surgery each year in the United States.
 2. **Relieving stress after surgeries**: Music doesn't only help before surgeries. Another study found that listening to music during post-surgical rest (especially in cardiac patients) helped patients relax and reduced their stress levels.

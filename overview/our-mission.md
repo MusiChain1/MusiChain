@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🎵 Our mission
+# Our mission
 
 **Plataforma de Staking**
 

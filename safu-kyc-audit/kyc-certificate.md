@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# 🕵 KYC Certificate
+# KYC Certificate
 

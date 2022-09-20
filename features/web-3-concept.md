@@ -5,7 +5,7 @@ description: >-
 coverY: 0
 ---
 
-# 🔊 Web 3 Concept
+# Web 3 Concept
 
 ## **Web 1**&#x20;
 

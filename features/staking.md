@@ -43,3 +43,17 @@ L = Number of staking days.&#x20;
 * taking into account the annual staking fee at 15% ...Singer "A" will receive 0.38 tokens from the Investor's staking and Singer "B" will receive 0.98 tokens from the Investor's staking
 
 Reward tokens are minted from the reserved tokens of 50% of the initial supply
+
+**Plan A**
+
+* 30%-will be shared between artists and listeners&#x20;
+* 30%-will be shared in MusiChain's fund
+* 30%-Liquidity pool
+* 10%-Burn
+
+**Plan B**
+
+* 60%-will be shared between artists and listeners&#x20;
+* 30%-will be shared in MusiChain's fund
+* 5%-Liquidity pool
+* 5%-Burn

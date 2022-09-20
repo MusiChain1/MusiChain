@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🔊 Blockchain and Web3 at MusiChain
+# Blockchain and Web3 at MusiChain
 
 The basis of the project, is simply listening to your favorite music, yet earning money by listening to it, that makes a trivial activity, profitable! We are in BETA phase of our platform, where our investors will be able to associate their portfolios and also perform the staking that we will have available in it. We are in progress with our app to be placed on the IOS/ ANDROID platforms. Below is the business model of the integration:
 

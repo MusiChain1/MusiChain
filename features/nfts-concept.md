@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🔊 NFT's Concept
+# NFT's Concept
 
 ## Non-Interchangeable Tokens (NFT)&#x20;
 

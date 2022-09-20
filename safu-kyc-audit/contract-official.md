@@ -1,6 +1,2 @@
----
-coverY: 0
----
-
-# 🕵 Contract Official
+# Contract Official
 
