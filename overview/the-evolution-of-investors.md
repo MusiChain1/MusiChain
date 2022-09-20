@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# The evolution of investors
+# 🎵 The evolution of investors
 
 After the emergence of Bitcoin and the marked rise of crypto, this market started to gain more and more strength and relevance. Allied to this, we live in a time when investment alternatives grow every day in line with technological evolution. Currently, the cryptocurrency market is worth about $2 trillion, and according to Multicoin Capital this market may reach $7 trillion. Contrary to what you might think, investors are spread all over the world, below, by the image you can check in more detail:
 

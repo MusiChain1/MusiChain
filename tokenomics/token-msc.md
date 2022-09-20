@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Token MSC
+# 🪙 Token MSC
 
 #### Total Supply: ****&#x20;
 

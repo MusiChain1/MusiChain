@@ -19,9 +19,13 @@
 * [🔊 DAO and Anti-Dump](features/dao-and-anti-dump.md)
 * [🔊 NFT's Concept](features/nfts-concept.md)
 * [🔊 Metaverse](features/metaverse.md)
-* [🔊 DAO+DeFI+NFT+Metaverse= MUSICHAIN](features/dao+defi+nft+metaverse-musichain.md)
 * [🔊 Staking](features/staking.md)
+* [🔊 Launchpads](features/launchpads.md)
 * [🔊 EVM](features/evm.md)
+
+## staking
+
+* [💎 Staking](https://www.google.com.br/)
 
 ## FAIRLAUNCH
 

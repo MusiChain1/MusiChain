@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# Fees MSC
+# 💸 Fees MSC
 
 ## :clap:3% on Buys and 1% on Sells.
 
