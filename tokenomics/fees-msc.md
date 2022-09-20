@@ -4,9 +4,9 @@ coverY: 0
 
 # Fees MSC
 
-## 1% on buys and 1% on sells.
+## :clap:3% on Buys and 1% on Sells.
 
-## 1% Purchase Fees
+## 3% Purchase Fees
 
 1% will be for marketing, where we aim to expand the MusiChain globally, through AMA's on telegram, Post on twitter and many influencers ! this is just the beginning
 

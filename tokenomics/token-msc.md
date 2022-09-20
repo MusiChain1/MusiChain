@@ -12,11 +12,11 @@ coverY: 0
 
 **Blockchain:** **BEP20**
 
-* [x] **Presale: 30%**
-* [x] **Liquidity: 17.1%**
-* [x] **VC Funding II: 10%**
-* [x] **Burnt: 37.9%**
-* [x] **VC Token Release: 5%**
+* [x] **Presale: %**
+* [x] **Liquidity: %**
+* [x] **Aidrop: %**
+* [x] **Burnt: %**
+* [x] **Staking: %**
 
 **Presale Start Time:**&#x20;
 

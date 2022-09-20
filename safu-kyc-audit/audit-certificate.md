@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# Certificado AUDIT
+# AUDIT Certificate
 

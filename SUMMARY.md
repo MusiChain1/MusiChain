@@ -31,7 +31,7 @@
 * [Contract Official](safu-kyc-audit/contract-official.md)
 * [SAFU Certificate](safu-kyc-audit/safu-certificate.md)
 * [KYC Certificate](safu-kyc-audit/kyc-certificate.md)
-* [Certificado AUDIT](safu-kyc-audit/certificado-audit.md)
+* [AUDIT Certificate](safu-kyc-audit/audit-certificate.md)
 
 ## tOKENOMICS
 
