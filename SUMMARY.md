@@ -4,26 +4,29 @@
 
 ## Overview
 
-* [10 benefícios da musica](overview/10-beneficios-da-musica.md)
-* [A evolução dos investidores](overview/a-evolucao-dos-investidores.md)
-* [Nossa missão](overview/nossa-missao.md)
-* [Fatores socioculturais](overview/fatores-socioculturais.md)
-* [Tendência Web3 e Blockchain](overview/tendencia-web3-e-blockchain.md)
-* [Conceito Web 3](overview/conceito-web-3.md)
-* [Blockchain – Conceitos](overview/blockchain-conceitos.md)
-* [Blockchain e Web3 na MusiChain](overview/blockchain-e-web3-na-musichain.md)
-* [Conceito DeFi e NFT’s](overview/conceito-defi-e-nfts.md)
-* [DAO e Anti-Dump](overview/dao-e-anti-dump.md)
-* [Metaverso](overview/metaverso.md)
-* [DAO+DeFI+NFT+Metaverso= MUSICHAIN](overview/dao+defi+nft+metaverso-musichain.md)
-* [EVM](overview/evm.md)
+* [10 Benefits of Music](overview/10-benefits-of-music.md)
+* [The evolution of investors](overview/the-evolution-of-investors.md)
+* [Our mission](overview/our-mission.md)
+* [Sociocultural factors](overview/sociocultural-factors.md)
+
+## Features&#x20;
+
+* [Web3 and Blockchain Trends](features/web3-and-blockchain-trends.md)
+* [Web 3 Concept](features/web-3-concept.md)
+* [Blockchain - Concepts](features/blockchain-concepts.md)
+* [Blockchain and Web3 at MusiChain](features/blockchain-and-web3-at-musichain.md)
+* [DeFi Concept and NFT's](features/defi-concept-and-nfts.md)
+* [DAO and Anti-Dump](features/dao-and-anti-dump.md)
+* [Metaverse](features/metaverse.md)
+* [DAO+DeFI+NFT+Metaverse= MUSICHAIN](features/dao+defi+nft+metaverse-musichain.md)
+* [EVM](features/evm.md)
 
 ## SAFU / KYC / AUDIT
 
 * [Contract Official](safu-kyc-audit/contract-official.md)
-* [SAFU](safu-kyc-audit/safu.md)
-* [KYC](safu-kyc-audit/kyc.md)
-* [AUDIT](safu-kyc-audit/audit.md)
+* [SAFU Certificate](safu-kyc-audit/safu-certificate.md)
+* [KYC Certificate](safu-kyc-audit/kyc-certificate.md)
+* [Certificado AUDIT](safu-kyc-audit/certificado-audit.md)
 
 ## tOKENOMICS
 
@@ -32,6 +35,6 @@
 * [Teams](tokenomics/teams.md)
 * [Roadmap](tokenomics/roadmap.md)
 
-## Social media
+## community
 
-* [Page 1](social-media/page-1.md)
+* [Website](http://musichain.app)

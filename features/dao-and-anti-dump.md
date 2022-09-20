@@ -2,5 +2,5 @@
 coverY: 0
 ---
 
-# DAO e Anti-Dump
+# DAO and Anti-Dump
 

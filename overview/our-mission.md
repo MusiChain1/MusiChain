@@ -2,11 +2,9 @@
 coverY: 0
 ---
 
-# Nossa missão
+# Our mission
 
-**Ouvir e ganhar**
-
-**Plataforma de Staking**
+Our mission**Plataforma de Staking**
 
 **Plataforma de Swap**
 
