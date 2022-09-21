@@ -2,7 +2,8 @@
 description: >-
   In order to understand the web3 concept, it is necessary to analyze its
   evolution:
-coverY: 0
+cover: ../.gitbook/assets/photo_2022-09-20_19-44-46.jpg
+coverY: 183.45006485084306
 ---
 
 # 🔊 Web 3 Concept

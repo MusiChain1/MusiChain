@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/photo_2022-09-20_19-44-46.jpg
+coverY: 222.46433203631648
 ---
 
 # 🔊 Web3 and Blockchain Trends

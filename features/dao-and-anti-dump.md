@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/photo_2022-09-20_19-44-46.jpg
+coverY: 275.5901426718548
 ---
 
 # 🔊 DAO and Anti-Dump

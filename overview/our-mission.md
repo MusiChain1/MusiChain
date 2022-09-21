@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/photo_2022-09-20_19-44-46.jpg
+coverY: 288.8715953307393
 ---
 
 # 🎵 Our mission

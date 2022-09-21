@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/photo_2022-09-20_19-44-46.jpg
+coverY: 271.4396887159533
 ---
 
 # 🎵 The evolution of investors

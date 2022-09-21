@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/photo_2022-09-20_19-44-46.jpg
+coverY: 298.83268482490274
 ---
 
 # 🔊 Blockchain and Web3 at MusiChain

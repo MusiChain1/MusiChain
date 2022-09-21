@@ -1,19 +1,8 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/photo_2022-09-20_19-44-46.jpg
+coverY: 259.4483643361129
 ---
 
 # 🛣 Roadmap
 
-Lancamento da Multichain
-
-Lncamento metaverso
-
-Lancamento Swap
-
-Lancamento Staking
-
-Atualização do staking, com projeção de novos planos
-
-Lancamento da Multichain
-
-Launchpad lancamento
+## coming soon...
