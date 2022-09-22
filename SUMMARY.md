@@ -49,3 +49,7 @@
 ## community
 
 * [🧿 Website](http://musichain.app)
+* [🧿 Twitter](https://twitter.com/MusiChain)
+* [🧿 Discord](https://discord.gg/gRssXUu9Dw)
+* [🧿 Medium](https://medium.com/@MusiChain)
+* [🧿 Reddit](https://www.reddit.com/user/MusiChain)
