@@ -35,7 +35,6 @@
 ## SAFU / KYC / AUDIT
 
 * [🕵 Contract Official](safu-kyc-audit/contract-official.md)
-* [🕵 SAFU Certificate](safu-kyc-audit/safu-certificate.md)
 * [🕵 KYC Certificate](safu-kyc-audit/kyc-certificate.md)
 * [🕵 AUDIT Certificate](safu-kyc-audit/audit-certificate.md)
 
@@ -45,11 +44,3 @@
 * [💸 Fees MSC](tokenomics/fees-msc.md)
 * [🫂 Teams](tokenomics/teams.md)
 * [🛣 Roadmap](tokenomics/roadmap.md)
-
-## community
-
-* [🧿 Website](http://musichain.app)
-* [🧿 Twitter](https://twitter.com/MusiChain)
-* [🧿 Discord](https://discord.gg/gRssXUu9Dw)
-* [🧿 Medium](https://medium.com/@MusiChain)
-* [🧿 Reddit](https://www.reddit.com/user/MusiChain)

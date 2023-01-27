@@ -5,9 +5,7 @@ coverY: 298.83268482490274
 
 # 🔊 Blockchain and Web3 at MusiChain
 
-The basis of the project, is simply listening to your favorite music, yet earning money by listening to it, that makes a trivial activity, profitable! We are in BETA phase of our platform, where our investors will be able to associate their portfolios and also perform the staking that we will have available in it. We are in progress with our app to be placed on the IOS/ ANDROID platforms. Below is the business model of the integration:
-
-**IMAGEM -  FLUXOGRAMA**
+The basis of the project, is simply listening to your favorite music, yet earning money by listening to it, that makes a trivial activity, profitable! We are in BETA phase of our platform, where our investors will be able to associate their portfolios and also perform the staking that we will have available in it. We are in progress with our app to be placed on the IOS/ ANDROID platforms.
 
 All types of amendments or changes will be voted on, and recorded by each administrator in a separate transaction, with the change being applied when there is sufficient consensus. Configuration phase - Only in this phase can administrators bypass this voting process.
 

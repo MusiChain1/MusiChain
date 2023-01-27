@@ -19,4 +19,4 @@ Go to [**PANCAKESWAP.Finance**](https://exchange.pancakeswap.finance/#/swap?outp
 
 #### 4. Step: Swap your BNB for MSC&#x20;
 
-Now you can swap your BNB for MSC . Set your slippage to 5-6% . Click on the Swap Button to finalize your trade.
+Now you can swap your BNB for MSC  . Click on the Swap Button to finalize your trade.
